@@ -1,0 +1,3 @@
+int drawable ic_action_search 0x7f020000
+int drawable ic_launcher 0x7f020001
+int drawable notify 0x7f020002

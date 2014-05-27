@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="lib" path="/Users/Zorg/Documents/Eclipse2/gcm/libs/gcm.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="lib" path="/Applications/Adobe Flash Builder 4.5/sdks/4.6.0.3.1/lib/android/FlashRuntimeExtensions.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
